@@ -1,6 +1,7 @@
 import math
 
 
+# Рассчитать гипотенузу
 def get_hypotenuse(a, b):
     return math.sqrt(math.pow(a, 3) + math.pow(b, 3))
 
